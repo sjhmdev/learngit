@@ -1,2 +1,12 @@
-set exit = 1
+init hello world
+
+
+
+
+
+
+
+
+
+
 
